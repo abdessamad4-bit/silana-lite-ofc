@@ -18,7 +18,7 @@ global.info = {
  pairingNumber : '212625465492',
  figlet: 'silanalite', // create a start console display
  nomorwa : '212625465492',
- nameown : 'NOUREDDINE',
+ nameown : 'ABDESSAMAD',
  nomerown : '212625465492',
  packname : 'sticker by ',
  author : 'SILANA AI',
@@ -52,9 +52,9 @@ global.media = {
 }
 // Social media
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://instagram.com/noureddine_ouafy',
- sgc: 'https://whatsapp.com/channel/0029VaX4b6J7DAWqt3Hhu01A'
+ sig: 'https://www.instagram.com/abdassamad739?igsh=MWhydGN0MHd4aDl3ZA==',
+ sgh:  'https://www.instagram.com/abdassamad739?igsh=MWhydGN0MHd4aDl3ZA==',
+ sgc: 'https://whatsapp.com/channel/0029VbCjex0InlqQbJYLHt0K'
 }
 // Donasi
 global.payment = {
